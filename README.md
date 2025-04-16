@@ -1,2 +1,2 @@
-# frontendev1
-trabajo-frontend-ev1
+# front-end-TI2031
+Repositorio Practico de Front-End Clase TI2031
